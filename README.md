@@ -85,17 +85,5 @@ python main.py
 * 👥 Multi-user support
 * 📱 GUI version using Tkinter
 
----
 
-## 👨‍💻 Author
 
-**Mohd Masihullah**
-(Replace this with your name before uploading to GitHub)
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share with your friends!
-
----
